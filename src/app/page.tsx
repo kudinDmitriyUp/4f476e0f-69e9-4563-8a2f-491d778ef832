@@ -40,11 +40,11 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Welcome to Luxe Hotel"
+          title="Welcome to Luxe"
           description="Experience ultimate comfort and hospitality in our premium five-star accommodations. Book your unforgettable stay with us today."
           tag="Your Perfect Getaway"
           tagIcon={Sparkles}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764102457361-c32205hb.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764102789800-4t16kbff.jpg"
           imageAlt="Luxury hotel lobby with modern design"
           imagePosition="right"
           buttons={[
